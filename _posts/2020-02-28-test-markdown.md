@@ -64,7 +64,7 @@ You can add notification, warning and error boxes like this:
 
 ### Notification
 
-**Note:** This is a notification box.
+**Note:** This is a notification boxdfd.
 
 ### Warning
 
